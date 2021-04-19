@@ -19,9 +19,10 @@ namespace Exercises.Controllers
         }
 
         [HttpGet]
-        public BasicResponse Get()
+        [Route("User")]
+        public UserTokenResponse GetUserToken()
         {
-            return new BasicResponse();
+            return new UserTokenResponse();
         }
     }
 }
