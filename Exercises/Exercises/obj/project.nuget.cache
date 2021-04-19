@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u2ukfIuuy1/7TJGPhwHArCb5oaGie/ChRF3LnIfPwtwLn97OaQlOA++h6GSPqPSHz9Bq3h9yCsFhmPB3eXCqdw==",
+  "dgSpecHash": "EvUYrWHT+cORvp8RVtqMHqc0b0BKfPepZwwiUJp0aTAJWz9xEa+JtDchqVigof7LnmqkENLQ806ZdHgPVITV9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\sajith.kumar\\workspace\\WooliesX\\Exercises\\Exercises\\Exercises.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sajith.kumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }

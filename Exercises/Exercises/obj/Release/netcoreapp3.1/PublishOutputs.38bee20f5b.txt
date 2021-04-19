@@ -1,0 +1,7 @@
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\Exercises.exe
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\appsettings.Development.json
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\appsettings.json
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\Exercises.dll
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\Exercises.deps.json
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\Exercises.runtimeconfig.json
+C:\Users\sajith.kumar\workspace\WooliesX\Exercises\Exercises\obj\Docker\publish\Exercises.pdb
