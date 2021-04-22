@@ -1,0 +1,37 @@
+[
+  {
+    "customerId": 123,
+    "productName": "Test Product A",
+    "quantity": 3
+  },
+  {
+    "customerId": 123,
+    "productName": "Test Product B",
+    "quantity": 1
+  },
+  {
+    "customerId": 123,
+    "productName": "Test Product F",
+    "quantity": 1
+  },
+  {
+    "customerId": 23,
+    "productName": "Test Product A",
+    "quantity": 3
+  },
+  {
+    "customerId": 23,
+    "productName": "Test Product B",
+    "quantity": 4
+  },
+  {
+    "customerId": 23,
+    "productName": "Test Product F",
+    "quantity": 3
+  },
+  {
+    "customerId": 23,
+    "productName": "Test Product C",
+    "quantity": 3
+  }
+]

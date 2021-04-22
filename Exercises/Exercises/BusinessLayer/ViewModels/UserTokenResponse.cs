@@ -1,6 +1,4 @@
-using System;
-
-namespace Exercises
+namespace Exercises.BusinessLayer.ViewModels
 {
     public class UserTokenResponse
     {
