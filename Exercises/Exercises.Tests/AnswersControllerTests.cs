@@ -1,19 +1,12 @@
 using AutoMapper;
-using Exercises.BusinessLayer.RepositoryContracts;
 using Exercises.BusinessLayer.ViewModels;
 using Exercises.Controllers;
 using Exercises.DataLayer;
-using Exercises.DataLayer.DbModels;
 using Exercises.DataLayer.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
-using Newtonsoft.Json;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 using Xunit.Sdk;
 
 namespace Exercises.Tests

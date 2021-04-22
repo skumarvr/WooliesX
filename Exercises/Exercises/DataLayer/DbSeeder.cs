@@ -1,6 +1,4 @@
 ﻿using Exercises.DataLayer.DbModels;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;

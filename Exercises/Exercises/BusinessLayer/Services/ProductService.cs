@@ -3,8 +3,6 @@ using AutoMapper.QueryableExtensions;
 using Exercises.BusinessLayer.Entities;
 using Exercises.BusinessLayer.RepositoryContracts;
 using Exercises.BusinessLayer.ViewModels;
-using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
